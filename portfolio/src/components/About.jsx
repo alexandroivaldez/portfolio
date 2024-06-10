@@ -35,7 +35,7 @@ const About = () => {
           <span className="relative">
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/alexandro-valdez/"
+              href="https://www.instagram.com/av.iex/"
               className="hover:bg-yellow-200 transition-colors duration-200"
             >
               Instagram
@@ -46,7 +46,7 @@ const About = () => {
           <span className="relative">
             <a
               target="_blank"
-              href="https://www.linkedin.com/in/alexandro-valdez/"
+              href="https://github.com/alexandroivaldez"
               className="hover:bg-yellow-200 transition-colors duration-200"
             >
               GitHub
